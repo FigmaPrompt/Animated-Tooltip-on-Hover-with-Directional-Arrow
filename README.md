@@ -7,7 +7,7 @@ Microinteractions & Animations
 ## Description
 Design a tooltip that appears with a smooth fade and scale animation when hovering over an element. The tooltip should include a directional arrow pointing toward the hovered target and smart positioning to avoid clipping outside the viewport.
 
-## 💬 Prompt Input
+## Prompt Input
 - Trigger: hover
 - Animation: fade in + scale from 0.9 to 1
 - Tooltip arrow aligned with target element
