@@ -1,0 +1,5 @@
+- Trigger: hover
+- Animation: fade in + scale from 0.9 to 1
+- Tooltip arrow aligned with target element
+- Auto-adjust positioning (top/bottom/left/right)
+- Delay: 100ms on hover
